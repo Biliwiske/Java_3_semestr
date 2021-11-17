@@ -57,13 +57,13 @@
 > Решение представлено в репозитории, папка "[Laba7](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_7 "Лабораторная 7")".
 
 ### <a name="lab8"></a>Лабораторная работа 8
-> Решение представлено в репозитории, папка "[Laba8](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_8 "Лабораторная 8")".
+> Работа еще не выполнена.
 
 ### <a name="lab9"></a>Лабораторная работа 9
 > Решение представлено в репозитории, папка "[Laba9](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_9 "Лабораторная 9")".
 
 ### <a name="lab10"></a>Лабораторная работа 10
-> Решение представлено в репозитории, папка "[Laba10](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_10 "Лабораторная 10")".
+> Работа еще не выполнена.
 
 ### <a name="lab11"></a>Лабораторная работа 11
 > Работа еще не выполнена.
