@@ -13,7 +13,7 @@
   + [Лабораторная работа 7](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_7);
   + [Лабораторная работа 8](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_8);
   + [Лабораторная работа 9](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_9);
-  + [Лабораторная работа 10 (Не выполнено)];
+  + [Лабораторная работа 10](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_10);
   + [Лабораторная работа 11 (Не выполнено)];
   + [Лабораторная работа 12 (Не выполнено)];
   + [Лабораторная работа 16 (Не выполнено)];
