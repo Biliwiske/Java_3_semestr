@@ -42,8 +42,7 @@ public class Main{
             // читаем посимвольно
             int c;
             while((c=reader.read())!=-1){
-                System.out.println(c);
-                //System.out.print((char)c);
+                System.out.print((char)c);
             }
         }
         catch(IOException ex){
@@ -78,7 +77,7 @@ public class Main{
         OutputStream os = null;
         try {
             //в конструкторе FileOutputStream используем флаг true, который обозначает обновление содержимого файла
-            os = new FileOutputStream(new File("File_1.txtt"), true);
+            os = new FileOutputStream(new File("File_1.txt"), true);
             os.write(data2.getBytes(), 0, data2.length());
         } catch (IOException e) {
             e.printStackTrace();
