@@ -18,15 +18,15 @@
   + [Лабораторная работа 12 (Не выполнено)];
   + [Лабораторная работа 16 (Не выполнено)];
 2. **Практические работы**
-  + [Практическая работа 1 (Не выполнено)];
-  + [Практическая работа 2 (Не выполнено)];
-  + [Практическая работа 3 (Не выполнено)];
-  + [Практическая работа 4 (Не выполнено)];
-  + [Практическая работа 5 (Не выполнено)];
-  + [Практическая работа 6 (Не выполнено)];
-  + [Практическая работа 7 (Не выполнено)];
-  + [Практическая работа 8 (Не выполнено)];
-  + [Практическая работа 9 (Не выполнено)];
+  + [Практическая работа 1](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_1);
+  + [Практическая работа 2](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_2);
+  + [Практическая работа 3](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_3);
+  + [Практическая работа 4](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_4);
+  + [Практическая работа 5](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_5);
+  + [Практическая работа 6](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_6);
+  + [Практическая работа 7](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_7);
+  + [Практическая работа 8](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_8);
+  + [Практическая работа 9](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_9);
   + [Практическая работа 10 (Не выполнено)];
   + [Практическая работа 11 (Не выполнено)];
   + [Практическая работа 12 (Не выполнено)];
