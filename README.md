@@ -29,4 +29,4 @@
   + [Практическая работа 10](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_10);
   + [Практическая работа 11](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_11);
   + [Практическая работа 12](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_12);
-  + [Практическая работа 16 (Не выполнено)];
+  + [Практическая работа 16](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_16);
