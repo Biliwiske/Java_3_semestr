@@ -15,7 +15,7 @@
   + [Лабораторная работа 9](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_9);
   + [Лабораторная работа 10](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_10);
   + [Лабораторная работа 12](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_12);
-  + [Лабораторная работа 16 (Не выполнено)];
+  + [Лабораторная работа 16](https://github.com/Biliwiske/Java_3_semestr/tree/main/Laba_16);
 2. **Практические работы**
   + [Практическая работа 1](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_1);
   + [Практическая работа 2](https://github.com/Biliwiske/Java_3_semestr/tree/main/Practica_2);
